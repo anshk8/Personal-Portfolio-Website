@@ -141,6 +141,7 @@ nav ul li a:hover::after {
     display: block;
     border: 2px solid black;
     margin-left: 30px;
+
 }
 
 .header-text h1 {
@@ -345,9 +346,10 @@ nav .fa-solid {
     }
 
     .frontpic {
-        width: 50%;
+        width: 80%;
         /* Adjust image width for smaller screens */
         margin-bottom: -180px;
+
     }
 
     .header-text {
